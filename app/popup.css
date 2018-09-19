@@ -1,0 +1,62 @@
+﻿#button {
+    opacity: 0.85;
+    width: 80px;
+    height: 42px;
+    display:block;
+    border: 2px solid;
+    border-color: grey;
+    text-align: center;
+    text-decoration:none;
+    background-color: lightgrey;
+    font-weight: bold;
+    font-size: 1.2em;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    padding-top: 5px;
+}
+
+#calendarButton {
+    opacity: 0.85;
+    width: 80px;
+    height: 42px;
+    display:block;
+    border: 2px solid;
+    border-color: grey;
+    text-align: center;
+    text-decoration:none;
+    background-color: lightgrey;
+    font-weight: bold;
+    font-size: 1.2em;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    margin-top: 15px;
+    position: relative;
+    padding-top: 8px;
+}
+
+head {
+    width: 400px;
+}
+
+body {
+    width: 400px;
+}
+
+dt {
+    font-size: 3em/100px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+    font-weight: bold;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+dd {
+    margin-bottom: 5px;
+}
+
+#help {
+    font-size: 1.1em;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
